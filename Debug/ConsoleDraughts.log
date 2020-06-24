@@ -1,0 +1,16 @@
+﻿  Draughts.cpp
+D:\vs_project\ConsoleDraughts\ConsoleDraughts\Draughts.cpp(249,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\vs_project\ConsoleDraughts\ConsoleDraughts\Draughts.cpp(433,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\vs_project\ConsoleDraughts\ConsoleDraughts\Draughts.cpp(597,25): warning C4018: <: несоответствие типов со знаком и без знака
+D:\vs_project\ConsoleDraughts\ConsoleDraughts\Draughts.cpp(707,14): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\vs_project\ConsoleDraughts\ConsoleDraughts\Draughts.cpp(852,22): warning C4018: <: несоответствие типов со знаком и без знака
+D:\vs_project\ConsoleDraughts\ConsoleDraughts\Draughts.cpp(909,47): warning C4551: в вызове функции отсутствует список аргументов
+D:\vs_project\ConsoleDraughts\ConsoleDraughts\Draughts.cpp(938,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\vs_project\ConsoleDraughts\ConsoleDraughts\Draughts.cpp(1022,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\vs_project\ConsoleDraughts\ConsoleDraughts\Draughts.cpp(1034,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\vs_project\ConsoleDraughts\ConsoleDraughts\Draughts.cpp(1049,22): warning C4018: <: несоответствие типов со знаком и без знака
+D:\vs_project\ConsoleDraughts\ConsoleDraughts\Draughts.cpp(1088,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\vs_project\ConsoleDraughts\ConsoleDraughts\Draughts.cpp(1153,19): warning C4018: >: несоответствие типов со знаком и без знака
+  Functions.cpp
+  Создание кода...
+  ConsoleDraughts.vcxproj -> D:\vs_project\ConsoleDraughts\Debug\ConsoleDraughts.exe
